@@ -1,7 +1,14 @@
 # Sql-Excel-Project- Data Analysis On Mavenmovies Database
+
+TOOLS USED:
+1) MY SQL
+2) MICROSOFT EXCEL
+
+
+
 ------------------------------------------------------Problem Statement----------------------------------------------------
 
-Objective: To analyze rental trends, identify popular films, and assess store performance using the MavenMovies Sakila database.
+OBJECTIVE: To analyze rental trends, identify popular films, and assess store performance using the MavenMovies Sakila database.
 
 1. Rental Trends:
 
